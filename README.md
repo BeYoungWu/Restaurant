@@ -50,10 +50,42 @@ X
 <br>
 
 ## ⌨ What I Made ⌨
-<h3>1. 관리자 페이지 (메뉴</h3>
+<h3>1. 레스토랑 사이트 - 관리자 페이지 (메뉴 관리)</h3>
+<h4>메뉴 관리 (전체)</h4>
+<img src="https://user-images.githubusercontent.com/116334811/230699897-f02c1867-3b2f-4036-9043-8f4c8660f657.png">
+<br><br>
+<h4>메뉴 관리 (메뉴 등록 - 전체)</h4>
+<img src="https://user-images.githubusercontent.com/116334811/230702488-8c4e9919-bd29-4bc3-b860-e8642ddd5ec3.png">
+<br><br>
+<h4>메뉴 관리 (메뉴 등록 - 카테고리 기능)</h4>
+<img src="https://user-images.githubusercontent.com/116334811/230702481-5c19001e-e77b-4765-9709-8d55bd8d773f.png">
+<br><br>
+<h4>메뉴 관리 (메뉴 수정)</h4>
+<img src="https://user-images.githubusercontent.com/116334811/230702483-1c472c1d-04bd-41c3-a26c-68b0c07774e6.png">
+<br><br>
+<h4>메뉴 관리 (메뉴 삭제)</h4>
+<img src="https://user-images.githubusercontent.com/116334811/230702486-57b642d3-6f48-4455-af24-ccac15ed67d0.png">
+<br><br>
+
+<br>
+
+<h3>2. 매장 태블릿 주문 화면 - 메뉴판 (전체)</h3>
 <h4></h4>
 <img src="">
 <br><br>
+<h4></h4>
+<img src="">
+<br><br>
+<h4></h4>
+<img src="">
+<br><br>
+<h4></h4>
+<img src="">
+<br><br>
+
+<br>
+
+<h3>2. 매장 태블릿 주문 화면 - 메뉴판 (전체)</h3>
 <h4></h4>
 <img src="">
 <br><br>
