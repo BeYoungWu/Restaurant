@@ -69,11 +69,14 @@ X
 
 <br>
 
-<h3>2. 매장 태블릿 주문 화면 - 메뉴판 (전체)</h3>
-<h4></h4>
+<h3>2. 매장 테블릿 - 신분증 검사 화면</h3>
+<h4>시작 화면 (1)</h4>
+<img src="https://user-images.githubusercontent.com/116334811/230762983-bba4ed06-2a8c-4fec-9589-c65e6a6ade07.png">
+<br><br>
+<h4>시작 화면 (2)</h4>
 <img src="">
 <br><br>
-<h4></h4>
+<h4>시작 화면 (3)</h4>
 <img src="">
 <br><br>
 <h4></h4>
@@ -85,9 +88,15 @@ X
 
 <br>
 
-<h3>2. 매장 태블릿 주문 화면 - 메뉴판 (전체)</h3>
-<h4></h4>
-<img src="">
+<h3>3. 매장 테블릿 - 주문 화면</h3>
+<h4>메뉴 리스트 (전체)</h4>
+<img src="https://user-images.githubusercontent.com/116334811/230762484-58beeb24-a942-4f1e-b2f8-88abdc80324f.png">
+<br><br>
+<h4>메뉴 디테일 (1)</h4>
+<img src="https://user-images.githubusercontent.com/116334811/230762582-d4ab900c-20a1-4ac9-8eb2-f51f42a2060f.png">
+<br><br>
+<h4>메뉴 디테일 (2)</h4>
+<img src="https://user-images.githubusercontent.com/116334811/230762485-2c31c856-863c-43fe-8bdc-c645ca7016c8.png">
 <br><br>
 <h4></h4>
 <img src="">
