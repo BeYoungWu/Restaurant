@@ -12,11 +12,11 @@
 <div align="center">
 
 ## 📄 Discription 📄
-(1) 레스토랑 예약/문의 사이트 (Spring Boot 구현)
+(1) 레스토랑 예약/문의 사이트 (Spring Boot)
 <br>
-(2) 매장 태블릿 주문 화면 (React 구현)
+(2) 매장 태블릿 주문 화면 (React)
 <br>
-(3) 신분증 확인 화면 (Python 구현) (OCR API 활용)
+(3) 신분증 확인 화면 (Python) (OCR API 활용)
 <br>
 
 ## 🔗 Link 🔗
@@ -74,15 +74,24 @@ X
 <img src="https://user-images.githubusercontent.com/116334811/230762983-bba4ed06-2a8c-4fec-9589-c65e6a6ade07.png">
 <br><br>
 <h4>시작 화면 (2)</h4>
-<img src="">
+<img src="https://user-images.githubusercontent.com/116334811/230786484-9ae131b0-c64b-485d-aaef-28f372db9213.png">
 <br><br>
 <h4>시작 화면 (3)</h4>
+<img src="https://user-images.githubusercontent.com/116334811/230786524-87f080ad-b91e-4a38-a903-43fe97b5b516.png">
+<br><br>
+<h4>신분증 검사 화면 (메인)</h4>
+<img src="https://user-images.githubusercontent.com/116334811/230786549-0f4502b3-1475-4ea7-a4f8-a11bacb4c456.png">
+<br><br>
+<h4>신분증 검사 화면 (캠 시작)</h4>
 <img src="">
 <br><br>
-<h4></h4>
+<h4>신분증 검사 화면 (사진 촬영)</h4>
 <img src="">
 <br><br>
-<h4></h4>
+<h4>신분증 검사 화면 (신분증 데이터 넘기기)</h4>
+<img src="">
+<br><br>
+<h4>신분증 검사 화면 (인증 실패시)</h4>
 <img src="">
 <br><br>
 
@@ -90,16 +99,22 @@ X
 
 <h3>3. 매장 테블릿 - 주문 화면</h3>
 <h4>메뉴 리스트 (전체)</h4>
-<img src="https://user-images.githubusercontent.com/116334811/230762484-58beeb24-a942-4f1e-b2f8-88abdc80324f.png">
+<img src="https://user-images.githubusercontent.com/116334811/230786894-ae78b432-2113-4bb8-ad30-1c30db433632.png">
 <br><br>
-<h4>메뉴 디테일 (1)</h4>
-<img src="https://user-images.githubusercontent.com/116334811/230762582-d4ab900c-20a1-4ac9-8eb2-f51f42a2060f.png">
+<h4>메뉴 리스트 (카트담기 클릭시)</h4>
+<img src="https://user-images.githubusercontent.com/116334811/230787191-10ec16ef-a577-42c3-bbdb-ddf44e1b564b.png">
 <br><br>
-<h4>메뉴 디테일 (2)</h4>
-<img src="https://user-images.githubusercontent.com/116334811/230762485-2c31c856-863c-43fe-8bdc-c645ca7016c8.png">
+<h4>메뉴 디테일</h4>
+<img src="https://user-images.githubusercontent.com/116334811/230786939-f30415b4-a496-480c-bd70-7f0fcd9e7339.png">
 <br><br>
-<h4></h4>
-<img src="">
+<h4>메뉴 디테일 (카트 담기 클릭시)</h4>
+<img src="https://user-images.githubusercontent.com/116334811/230787222-9a2eec6c-994f-44ea-aad2-716a5a7058b1.png">
+<br><br>
+<h4>카트 화면 (상품 X)</h4>
+<img src="https://user-images.githubusercontent.com/116334811/230787131-91e5ddd8-1532-42e2-8130-01f5d08098f3.png">
+<br><br>
+<h4>카트 화면 (상품 O)</h4>
+<img src="https://user-images.githubusercontent.com/116334811/230787097-2784a95e-a8e8-4318-9d55-9c5b7b6fc3d8.png">
 <br><br>
 
 </div>
